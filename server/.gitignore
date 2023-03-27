@@ -42,7 +42,6 @@ node_modules
 # Strapi
 ############################
 
-.env
 license.txt
 exports
 dist
